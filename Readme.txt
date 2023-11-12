@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Akash Battery
+Template Name: Akash-Batteries
 Template URL: 
 Author: Dhirendra
 License: 
